@@ -4,3 +4,5 @@
 ローカルで変更
 conflict branch
 conflict github で編集
+
+rebase-practice で更新
