@@ -10,3 +10,5 @@ main で更新　 conflict
 rebase 用
 
 stash 用
+
+stash 練習 tracked
