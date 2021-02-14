@@ -7,3 +7,4 @@ conflict github で編集
 
 rebase-practice で更新
 main で更新　 conflict
+rebase 用
