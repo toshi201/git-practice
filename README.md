@@ -12,3 +12,4 @@ rebase 用
 stash 用
 
 stash 練習 tracked
+stash 練習 2nd
